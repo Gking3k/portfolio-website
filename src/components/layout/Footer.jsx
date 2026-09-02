@@ -12,14 +12,13 @@ function Footer() {
           </strong>
 
           <p>
-            Websites built to help
-            businesses grow online.
+            Websites and web applications
+            built for growing businesses.
           </p>
         </div>
 
         <p>
           © {year} G3 Web Studio.
-          All rights reserved.
         </p>
 
       </div>

@@ -76,4 +76,81 @@ export const projects = [
     githubUrl:
       "",
   },
+
+  {
+    id: 3,
+
+    title:
+      "Crown & Co.",
+
+    category:
+      "Starter Website",
+
+    description:
+      "A polished one-page website for a modern barbershop, designed to demonstrate a professional starter-level business website.",
+
+    image:
+      "/projects/crown-and-co.webp",
+
+    technologies: [
+      "React",
+      "Vite",
+      "CSS",
+    ],
+
+    features: [
+      "Responsive design",
+      "Services & pricing",
+      "Gallery",
+      "Business information",
+      "WhatsApp CTA",
+      "Mobile navigation",
+    ],
+
+    // Add the real deployed URL when ready.
+    liveUrl:
+      "",
+
+    githubUrl:
+      "",
+  },
+
+  {
+    id: 4,
+
+    title:
+      "Sage & Stone",
+
+    category:
+      "Basic Website",
+
+    description:
+      "A multi-page interior design studio website combining editorial design, project presentation, services, process information and contact functionality.",
+
+    image:
+      "/projects/sage-and-stone.webp",
+
+    technologies: [
+      "React",
+      "Vite",
+      "React Router",
+      "CSS",
+    ],
+
+    features: [
+      "Multi-page website",
+      "Responsive design",
+      "Project showcase",
+      "Services presentation",
+      "Design process",
+      "WhatsApp contact",
+    ],
+
+    // Add the real deployed URL when ready.
+    liveUrl:
+      "",
+
+    githubUrl:
+      "",
+  },
 ];

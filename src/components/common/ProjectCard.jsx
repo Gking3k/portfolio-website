@@ -10,7 +10,7 @@ function ProjectCard({
         {project.image ? (
           <img
             src={project.image}
-            alt={`${project.title} website preview`}
+            alt={`${project.title} website project preview`}
             loading="lazy"
             decoding="async"
           />

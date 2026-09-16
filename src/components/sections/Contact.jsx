@@ -215,10 +215,6 @@ ${formData.message}
                   </option>
 
                   <option>
-                    Under ₦100,000
-                  </option>
-
-                  <option>
                     ₦100,000 – ₦200,000
                   </option>
 

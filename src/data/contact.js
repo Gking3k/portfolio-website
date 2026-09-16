@@ -4,7 +4,7 @@ const contact = {
     "2347059944155",
 
   email:
-    "ekwughagerald@gmail.com",
+    "g3webstudiohq@gmail.com",
 
   fiverrUrl:
     "",

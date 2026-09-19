@@ -18,7 +18,14 @@ function Footer() {
         </div>
 
         <p>
-          © {year} G3 Web Studio.
+          © {year} G3 Web Studio.{" "}
+          <a
+            href="https://wa.me/2349158873324"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Let's work together
+          </a>
         </p>
 
       </div>
